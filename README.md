@@ -1,7 +1,7 @@
 # KMP-git-ignore
 git ignore template for KMP projects (swiftpm,swift,cocoapods,carthage,fastlane,objective-c)
 
-
+```
 ### Carthage ###
 # Carthage
 #
@@ -163,4 +163,4 @@ Dependencies/
 Packages
 xcuserdata
 *.xcodeproj
-
+```
