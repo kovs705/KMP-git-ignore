@@ -1,6 +1,26 @@
 # KMP-git-ignore
-git ignore template for KMP projects (swiftpm,swift,cocoapods,carthage,fastlane,objective-c)
 
+git ignore template for KMP project overall
+```
+*.iml
+*.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+local.properties
+.cxx
+local.properties
+/multiplatformLibrary/build/
+/*/build/
+**/build/
+/androidlk/build/
+/multiplatformLibrary/build/
+```
+
+git ignore template for iOS part (swiftpm,swift,cocoapods,carthage,fastlane,objective-c)
 ```
 ### Carthage ###
 # Carthage
