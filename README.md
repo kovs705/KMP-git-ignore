@@ -21,6 +21,7 @@ local.properties
 ```
 
 git ignore template for iOS part (swiftpm,swift,cocoapods,carthage,fastlane,objective-c)
+⚠️ Warning: this .gitignore file exclude .xcodeproj so you need to use XCodeGen to generate project from .yml file
 ```
 ### Carthage ###
 # Carthage
