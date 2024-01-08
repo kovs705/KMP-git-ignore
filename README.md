@@ -1,5 +1,7 @@
 # KMP-git-ignore
 
+
+## KMP
 git ignore template for KMP project overall
 ```
 *.iml
@@ -20,6 +22,7 @@ local.properties
 /multiplatformLibrary/build/
 ```
 
+## iOS Project
 git ignore template for iOS part (swiftpm,swift,cocoapods,carthage,fastlane,objective-c)
 ⚠️ Warning: this .gitignore file exclude .xcodeproj so you need to use XCodeGen to generate project from .yml file
 ```
