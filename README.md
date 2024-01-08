@@ -157,8 +157,8 @@ xcuserdata
 .svn
 
 *.xcodeproj/*
-!*.xcodeproj/project.pbxproj
-!*.xcworkspace/contents.xcworkspacedata
+*.xcodeproj/project.pbxproj
+*.xcworkspace/contents.xcworkspacedata
 
 # Other
 *~
